@@ -1,0 +1,37 @@
+body {
+    height: 450px;
+    background-image: url("https://img.freepik.com/vector-gratis/diseno-fondo-abstracto-blanco_23-2148825582.jpg?w=740&t=st=1683123347~exp=1683123947~hmac=7915199f2681391d57f39393a78122876d951e6839701ccf003d6949ee0121a9");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+  }
+
+td,
+
+th {
+    text-align: center;
+    padding: 10px;
+    border: solid #020202 1px;
+}
+
+.tableFormat table {
+    margin: 10px auto;
+}
+
+
+h1 {
+    text-align: center;
+    margin: 1rem 0 1.68rem 0;
+}
+
+h4 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+#botonDeEnvio {
+    font-size: 23px;
+}
